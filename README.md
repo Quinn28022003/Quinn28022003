@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=40)
+![header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/b011de09-91e7-42d1-ac62-4cc0b6bcda93" />
+)
 
